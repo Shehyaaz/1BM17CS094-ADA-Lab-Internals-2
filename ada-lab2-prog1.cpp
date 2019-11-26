@@ -7,7 +7,6 @@ LCS for input Sequences “AGGTAB” and “GXTXAYB” is “GTAB” of length 4
 */
 
 // Lab 7a-Longest Common Subsequece
-
 #include <iostream>
 #include <cstring>
 #include <cmath>
